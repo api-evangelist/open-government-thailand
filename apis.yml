@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://data.go.th/
 common:
+  - type: DomainSecurity
+    url: security/open-government-thailand-domain-security.yml
   - type: Website
     url: https://data.go.th/
   - type: PublicAPIsListing
