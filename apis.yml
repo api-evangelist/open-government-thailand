@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Thailand
     description: "Thailand Government Open Data"
     humanURL: https://data.go.th/
-    baseURL: https://data.go.th/
     tags:
       - Government
     properties:
